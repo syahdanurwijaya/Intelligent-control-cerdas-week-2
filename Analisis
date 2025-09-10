@@ -1,0 +1,4 @@
+Pada praktikum ini melakukan percobaan mendeteksi warna dan terdapat tingkat akurasi dalam bentuk persentase
+Ketika objek di deteksi oleh kamera pada kotak maka akan muncul label sesuai wana, bukan hanya warna Primer dan sekunder saja namun bermacam warna dapat terdeteksi 
+Macam macam warna ini dapat terdeteksi dengan adanya penambahan datasheet yang dapat di ambil dari kaggle 
+Pengaruh kamera dan cahaya dapat membuat deteksi warna ini menjadi tidak akurat
